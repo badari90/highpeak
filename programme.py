@@ -1,5 +1,5 @@
 input_file =open("C:/Users/Dell/OneDrive/Desktop/sample_input.txt","r")
-output_file = open("output.txt","w+")
+output_file = open("output_file.txt","w+")
 goodies={}
 output_list=[]
 for f in input_file:
